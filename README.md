@@ -1,2 +1,1 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+https://tejar2008.github.io/Bullet-And-Wall/  <- Code for viewing the project
